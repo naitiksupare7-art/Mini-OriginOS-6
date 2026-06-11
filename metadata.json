@@ -1,0 +1,6 @@
+{
+  "name": "Mini OriginOS",
+  "description": "An elegant, highly customizable launcher inspired by modern OriginOS concepts, featuring glassmorphic widgets, folders, drag-and-drop system, swipe App Drawer, Control Center with slider overlays, custom wallpapers, and custom grid metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
